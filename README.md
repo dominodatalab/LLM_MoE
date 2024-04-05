@@ -63,4 +63,4 @@ jupyterlab:
 Please change the value in `start` according to your Domino version.
 
 ### Hardware Requirements
-
+Merging the models to create an MoE does not require a GPU but its recommended to use a machine with adequate RAM. For this exercise we used a machine with `32GB` RAM. Running the evaluation requires a GPU and we used a GPU with `24GB` of VRAM of which `21GB` was consumed to load the model, data and run the evaluation

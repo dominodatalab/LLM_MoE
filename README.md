@@ -9,7 +9,7 @@ The assets available in this project are:
 
 * *`merge_moe.ipynb`* -
 * *`config.yaml`* -
-* * `results/benchmark_<filename>.json`* -
+* * `results/benchmark\*.json`* -
 
 * ## Set up instructions
 

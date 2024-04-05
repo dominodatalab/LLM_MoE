@@ -3,7 +3,7 @@
 ## About this project
 In this project we will create a Mixture of Expert model using 2 different 7b models using the `mixtral` branch of [mergekit](https://github.com/arcee-ai/mergekit/tree/mixtral) and use Eleuther AI's evaluation harness and benchmark [framework](https://github.com/EleutherAI/lm-evaluation-harness/tree/main) to evaluate the LLMs that were used to create the MoE and the merged MoE model.
 
-Below is the result of an evaluation using `eqbench`, though not appropriate for the task the MoE does better than the individual LLMs perhaps because the OpenChat model is adding some generalization from the way the instructions were provided to it during fine tuning.
+Below is the result of an evaluation using `eqbench`, though not appropriate for the task, the MoE does better than the individual LLMs perhaps because the OpenChat model is adding some generalization from the way the instructions were provided to it during fine tuning.
 
 | Benchmark Task                | mlabonne/AlphaMonarch-7B  | beowolx/CodeNinja-1.0-OpenChat-7B             | MoE               |
 |-------------------------------|----------------------|----------------------|----------------------|

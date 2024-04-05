@@ -1,0 +1,16 @@
+base_model: mlabonne/AlphaMonarch-7B
+experts:
+  - source_model: mlabonne/AlphaMonarch-7B
+    positive_prompts:
+    - "chat"
+    - "assistant"
+    - "tell me"
+    - "explain"
+    - "I want"
+  - source_model: beowolx/CodeNinja-1.0-OpenChat-7B
+    positive_prompts:
+    - "code"
+    - "python"
+    - "javascript"
+    - "programming"
+    - "algorithm"

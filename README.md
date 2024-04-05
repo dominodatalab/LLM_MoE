@@ -6,7 +6,11 @@ In this project we will create a Mixture of Expert model using 2 different 7b mo
 
 ## License
 This template is licensed under Apache 2.0 and contains the following components: 
-* mergekit [GNU Lesser General Public License v3.0](https://github.com/arcee-ai/mergekit/blob/mixtral/LICENSE))
+* mergekit [GNU Lesser General Public License v3.0](https://github.com/arcee-ai/mergekit/blob/mixtral/LICENSE)
+* lm-evaluation-harness [MIT License](https://github.com/EleutherAI/lm-evaluation-harness/blob/main/LICENSE.md)
+* accelerate [Apache License 2.0](https://github.com/huggingface/accelerate/blob/main/LICENSE)
+* bitsandbytes [MIT License](https://github.com/TimDettmers/bitsandbytes/blob/main/LICENSE)
+* transformers [Apache License 2.0](https://github.com/huggingface/transformers/blob/main/LICENSE)
 
 The assets available in this project are:
 

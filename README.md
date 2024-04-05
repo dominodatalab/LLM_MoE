@@ -26,6 +26,8 @@ The assets available in this project are:
 * *`config.yaml`* - This is the configuration file that `mergekit` uses to create a MoE
 * *`results/benchmark*.json`* - The results of the different LLMs on `asdiv` and `eq_bench`
 
+If you would like to quantize your model after merging it, you can refer to [this](https://colab.research.google.com/drive/1P646NEg33BZy4BfLDNpTz0V0lwIU3CHu#scrollTo=fD24jJxq7t3k) Google Colab notebook  
+
  ## Set up instructions
 
 This project requires the following [compute environments](https://docs.dominodatalab.com/en/latest/user_guide/f51038/environments/) to be present. Please ensure the "Automatically make compatible with Domino" checkbox is selected while creating the environment.

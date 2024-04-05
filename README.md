@@ -1,8 +1,7 @@
 # LLM_MoE
 
-In this project we will create a Mixture of Expert model using 2 different 7b models using the `mixtral` branch of [mergekit](https://github.com/arcee-ai/mergekit/tree/mixtral) and use Eleuther AI's evaluation harness and benchmark [framework](https://github.com/EleutherAI/lm-evaluation-harness/tree/main) to evaluate the LLMs that were used to create the MoE and the merged MoE model.
-
 ## About this project
+In this project we will create a Mixture of Expert model using 2 different 7b models using the `mixtral` branch of [mergekit](https://github.com/arcee-ai/mergekit/tree/mixtral) and use Eleuther AI's evaluation harness and benchmark [framework](https://github.com/EleutherAI/lm-evaluation-harness/tree/main) to evaluate the LLMs that were used to create the MoE and the merged MoE model.
 
 ## License
 This template is licensed under Apache 2.0 and contains the following components: 

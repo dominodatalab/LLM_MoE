@@ -33,7 +33,7 @@ RUN  git clone -b mixtral https://github.com/arcee-ai/mergekit.git /mergekit && 
 		cd /mergekit && \
  		pip install -e .
 ```
-***Pluggable Workspace Tools** 
+***Pluggable Workspace Tools*** 
 ```
 jupyterlab:
   title: "JupyterLab"

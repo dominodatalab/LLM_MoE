@@ -7,10 +7,10 @@ Below is the result of an evaluation using `eqbench`, though not appropriate for
 
 | Benchmark Task                | mlabonne/AlphaMonarch-7B  | beowolx/CodeNinja-1.0-OpenChat-7B             | MoE               |
 |-------------------------------|----------------------|----------------------|----------------------|
-| eqbench, none                 | 69.75258355985791    | 64.75661578158112    | 74.56936278757131    |
-| eqbench_stderr, none          | 2.257467807597424    | 2.6731749530464515   | 1.854769099527494    |
-| percent_parseable, none       | 97.6608187134503     | 100.0                | 99.41520467836257    |
-| percent_parseable_stderr, none| 1.1592247905734931   | 0.0                  | 0.5847953216374283   |
+| eqbench           | 69.7526    | 64.7566    | 74.5694    |
+| eqbench_stderr         | 2.2575    | 2.6732   | 1.8548    |
+| percent_parseable      | 97.6608     | 100.0                | 99.4152    |
+| percent_parseable_stderr| 1.1592   | 0.0                  | 0.5848   |
 
 ## License
 This template is licensed under Apache 2.0 and contains the following components: 
